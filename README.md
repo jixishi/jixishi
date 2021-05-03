@@ -16,4 +16,4 @@
 
 [MQTT]:https://img.shields.io/website?down_color=red&down_message=NO%21&label=MQTT-BE6&logo=http%3A%2F%2Fmqtt.be6.run&logoColor=pink&up_message=OK%21&url=http%3A%2F%2Fmqtt.be6.run
 [bilibili]:https://img.shields.io/badge/dynamic/json?labelColor=FE7398&label=bilibili%20机械师&suffix=%20粉丝&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D5730067&color=00bbff&longCache=true
-[DNS]:https://img.shields.io/website?down_color=red&down_message=NO%21&label=DNS-BE6&logo=http%3A%2F%2Fdns.be6.top&logoColor=pink&up_message=OK%21&url=http%3A%2F%2Fdns.be6.top
+[DNS]:https://img.shields.io/website?down_color=red&down_message=NO%21&label=DNS-BE6&logo=http://dns.be6.top&logoColor=pink&up_message=OK%21&url=http://dns.be6.top
