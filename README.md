@@ -7,7 +7,7 @@
 ## 开设站点
 | 链接 | 描述 |
 | :----: | :----: |
-| [![mqtt-web][MQTT]](http://mqtt.be6.run) | 在线mqtt链接测速 |
+| [![mqtt-web][MQTT]](http://mqtt.be6.run) | 在线mqtt链接测试 |
 | [![dns][DNS]](http://dns.be6.top) | 免费二级域名 |
 
 
