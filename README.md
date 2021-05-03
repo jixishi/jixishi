@@ -1,5 +1,4 @@
-![Jixishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jixishi&theme=tokyonight&show_icons=true)
-[![b站粉丝][bilibili]](https://space.bilibili.com/5730067)
+![Jixishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jixishi&theme=tokyonight&show_icons=true)|[![b站粉丝][bilibili]](https://space.bilibili.com/5730067)
 <!--
 **jixishi/jixishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
