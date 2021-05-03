@@ -1,28 +1,14 @@
-<center># 欢迎来到这里</center>
-<table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                ![Jixishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jixishi&theme=tokyonight&show_icons=true)
-            </td>
-            <td>
-                
-            </td>
-        </tr>
-    </table>
-
-<details>
-<summary>展开查看</summary>
-<pre><code>
+# 欢迎来到这里
+![Jixishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jixishi&theme=tokyonight&show_icons=true)
 ## 社交网站
 [![b站粉丝][bilibili]](https://space.bilibili.com/5730067)
+<---
 ## 开设站点
 | 链接 | 描述 |
 | :----: | :----: |
 | [![mqtt-web][MQTT]](http://mqtt.be6.run) | 在线mqtt链接测速 |
 | [![dns][DNS]](http://dns.be6.top) | 免费二级域名 |
-</code></pre>
-</details>
-
+--->
 
 
 
