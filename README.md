@@ -1,8 +1,8 @@
-### Hi there 👋
-
+### Hi 👋
+![Jixishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jixishi&theme=tokyonight&show_icons=true)
 <!--
 **jixishi/jixishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Jixishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jixishi&theme=tokyonight&show_icons=true)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
